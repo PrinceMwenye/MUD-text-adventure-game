@@ -1,9 +1,4 @@
-"""
-Your name:Prince Chabveka
-Your student number:A01261829
 
-All of your code must go in this file.
-"""
 import random
 from art import text2art
 from colorama import Fore, Style, Back
